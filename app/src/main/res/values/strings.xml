@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">MastogrApp</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="menu_solicitudes">Solicitudes</string>
+    <string name="menu_agendar">Re-Agendar</string>
+    <string name="menu_reporte">Reportes</string>
+    <string name="menu_verificacion">Verifcación</string>
+
+    <string name="menu_citas">Mis citas</string>
+    <string name="menu_reportesCitas">Reportes citas</string>
+    <string name="menu_calendario">Calendario</string>
+
+
+    <string name="title_citas">Mis citas</string>
+    <string name="title_home">Home</string>
+    <string name="title_calen">Calendario</string>
+
+    <string name="title_soli">Solicitudes</string>
+    <string name="title_home2">Home</string>
+    <string name="title_calen2">Calendario</string>
+</resources>

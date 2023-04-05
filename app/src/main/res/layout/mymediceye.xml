@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <ImageView
+        android:id="@+id/imageView25"
+        android:layout_width="29dp"
+        android:layout_height="19dp"
+        app:srcCompat="@drawable/vector__6_"
+        tools:layout_editor_absoluteX="30dp"
+        tools:layout_editor_absoluteY="215dp" />
+
+    <ImageView
+        android:id="@+id/imageView24"
+        android:layout_width="29dp"
+        android:layout_height="19dp"
+        app:srcCompat="@drawable/vector__8_"
+        tools:layout_editor_absoluteX="30dp"
+        tools:layout_editor_absoluteY="141dp" />
+
+    <EditText
+        android:id="@+id/editTextTextPersonName3"
+        android:layout_width="283dp"
+        android:layout_height="46dp"
+        android:ems="10"
+        android:inputType="textPersonName"
+        android:text="Nombre completo"
+        android:textColor="#666666"
+        android:textColorHint="#666666"
+        tools:layout_editor_absoluteX="74dp"
+        tools:layout_editor_absoluteY="128dp" />
+
+    <Button
+        android:id="@+id/button7"
+        android:layout_width="199dp"
+        android:layout_height="48dp"
+        android:text="continuar"
+        tools:layout_editor_absoluteX="106dp"
+        tools:layout_editor_absoluteY="443dp" />
+
+    <Spinner
+        android:id="@+id/spinner2"
+        android:layout_width="312dp"
+        android:layout_height="34dp"
+        tools:layout_editor_absoluteX="40dp"
+        tools:layout_editor_absoluteY="346dp" />
+
+    <EditText
+        android:id="@+id/editTextTextEmailAddress2"
+        android:layout_width="281dp"
+        android:layout_height="48dp"
+        android:ems="10"
+        android:hint="Email:"
+        android:inputType="textEmailAddress"
+        tools:layout_editor_absoluteX="75dp"
+        tools:layout_editor_absoluteY="205dp" />
+
+    <Spinner
+        android:id="@+id/spinner"
+        android:layout_width="313dp"
+        android:layout_height="37dp"
+        tools:layout_editor_absoluteX="40dp"
+        tools:layout_editor_absoluteY="290dp" />
+
+    <ImageView
+        android:id="@+id/imageView22"
+        android:layout_width="59dp"
+        android:layout_height="65dp"
+        app:srcCompat="@drawable/image_9"
+        tools:layout_editor_absoluteX="297dp"
+        tools:layout_editor_absoluteY="32dp" />
+
+    <TextView
+        android:id="@+id/textView17"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="My Medic Eye"
+        android:textColor="#0B0A0A"
+        android:textSize="24sp"
+        tools:layout_editor_absoluteX="41dp"
+        tools:layout_editor_absoluteY="52dp" />
+
+
+</androidx.constraintlayout.widget.ConstraintLayout>

@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <Button
+        android:id="@+id/button6"
+        android:layout_width="221dp"
+        android:layout_height="44dp"
+        android:text="My Medic Eye"
+        android:textColor="#666666"
+        app:backgroundTint="#FBFBFB"
+        tools:layout_editor_absoluteX="126dp"
+        tools:layout_editor_absoluteY="397dp" />
+
+    <ImageView
+        android:id="@+id/imageView20"
+        android:layout_width="50dp"
+        android:layout_height="45dp"
+        app:srcCompat="@drawable/image_9"
+        tools:layout_editor_absoluteX="60dp"
+        tools:layout_editor_absoluteY="397dp" />
+
+    <Button
+        android:id="@+id/button4"
+        android:layout_width="221dp"
+        android:layout_height="45dp"
+        android:text="SaludDigna"
+        android:textColor="#666666"
+        app:backgroundTint="#FBFBFB"
+        tools:layout_editor_absoluteX="126dp"
+        tools:layout_editor_absoluteY="225dp" />
+
+    <ImageView
+        android:id="@+id/imageView19"
+        android:layout_width="50dp"
+        android:layout_height="45dp"
+        app:srcCompat="@drawable/image_8"
+        tools:layout_editor_absoluteX="60dp"
+        tools:layout_editor_absoluteY="310dp" />
+
+    <ImageView
+        android:id="@+id/imageView18"
+        android:layout_width="50dp"
+        android:layout_height="45dp"
+        app:srcCompat="@drawable/image_7"
+        tools:layout_editor_absoluteX="60dp"
+        tools:layout_editor_absoluteY="225dp" />
+
+    <Button
+        android:id="@+id/button5"
+        android:layout_width="221dp"
+        android:layout_height="44dp"
+        android:text="Hospitales Angeles"
+        android:textColor="#666666"
+        app:backgroundTint="#FBFBFB"
+        tools:layout_editor_absoluteX="126dp"
+        tools:layout_editor_absoluteY="310dp" />
+
+    <TextView
+        android:id="@+id/textView16"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Sector Privado"
+        android:textColor="#1C1C1C"
+        android:textSize="24sp"
+        tools:layout_editor_absoluteX="127dp"
+        tools:layout_editor_absoluteY="122dp" />
+
+</androidx.constraintlayout.widget.ConstraintLayout>
